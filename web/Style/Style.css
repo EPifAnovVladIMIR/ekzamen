@@ -1,0 +1,28 @@
+body{
+	background-image: url('../Img/fon1.jpg');
+	background-size: 100% auto;
+}
+h1{
+	font-family: Monotype Corsiva;
+	font-weight: 700;
+	text-decoration: underline;
+	text-align: center;
+	font-size: 24pt;
+}
+.wrapper{
+	display: flex;
+}
+.Var1{
+	float: left;
+}
+p{
+	width: 300px;
+	max-height: 200px;
+	border: 5px solid red;
+	padding: 5px;
+	background: #FFFF00;
+	margin-left: 50px;
+	font-size: 24px;
+	clear: both;
+	
+}
